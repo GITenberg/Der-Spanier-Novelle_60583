@@ -1,0 +1,35 @@
+_repo: Der-Spanier-Novelle_60583
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Weidemeyer, Carl
+    birthdate: 1882
+    deathdate: 1976
+    gutenberg_agent_id: '51034'
+    url: http://www.gutenberg.org/2009/agents/51034
+    wikipedia: https://de.wikipedia.org/wiki/Carl_Weidemeyer
+creator:
+  author:
+    agent_name: Falke, Gustav
+    birthdate: 1853
+    deathdate: 1916
+    gutenberg_agent_id: '3825'
+    url: http://www.gutenberg.org/2009/agents/3825
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustav_Falke
+    - https://de.wikipedia.org/wiki/Gustav_Falke
+description: ''
+gutenberg_issued: '2019-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60583'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Der Spanier: Novelle'
+url: http://www.gutenberg.org/ebooks/60583
